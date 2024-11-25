@@ -51,7 +51,7 @@
   }
   
   .avatar-placeholder {
-    background-image: url('../../../assets/images/homepage/mockavatar.png');
+    background-image: url('../../../../assets/images/homepage/mockavatar.png');
     background-position: center;
     background-size: cover;
     width: 50px;

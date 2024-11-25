@@ -38,7 +38,7 @@
   .header-logo-image {
     width: 50px; /* Adjust as needed */
     height: 50px; /* Adjust as needed */
-    background-image: url('../../../assets/images/homepage/logo-white.png');
+    background-image: url('../../assets/images/homepage/logo-white.png');
     background-size: cover;
     background-position: center;
   }
