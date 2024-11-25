@@ -23,7 +23,7 @@
   .footer-logo-image {
     width: 50px; /* Adjust width as needed */
     height: 50px; /* Adjust height as needed */
-    background-image: url('../../../assets/images/homepage/logo.png');
+    background-image: url('../../assets/images/homepage/logo.png');
     background-position: center;
     background-size: cover;
     border-radius: 5px; /* Optional, if you want rounded corners */
@@ -92,25 +92,25 @@
   }
 
   .footer-image-topleft {
-    background-image: url('../../../assets/images/homepage/footer1.jpeg');
+    background-image: url('../../assets/images/homepage/footer1.jpeg');
     background-position: center;
     background-size: cover;
   }
 
   .footer-image-topright {
-    background-image: url('../../../assets/images/homepage/footer2.jpeg');
+    background-image: url('../../assets/images/homepage/footer2.jpeg');
     background-position: center;
     background-size: cover;
   }
 
   .footer-image-bottomleft {
-    background-image: url('../../../assets/images/homepage/footer3.jpeg');
+    background-image: url('../../assets/images/homepage/footer3.jpeg');
     background-position: center;
     background-size: cover;
   }
 
   .footer-image-bottomright {
-    background-image: url('../../../assets/images/homepage/footer4.jpeg');
+    background-image: url('../../assets/images/homepage/footer4.jpeg');
     background-position: center;
     background-size: cover;
   }

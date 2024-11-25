@@ -7,7 +7,7 @@
     padding: 60px;
     background-color: #fdfdfd;
     min-height: 600px; /* Set a minimum height for proper centering */
-    background-image: url('../../../assets/images/homepage/hero-banner.png');
+    background-image: url('../../../../assets/images/homepage/hero-banner.png');
     background-size: cover;
     background-position: center;
   }
