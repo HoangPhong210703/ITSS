@@ -9,8 +9,8 @@ const Delivery = () => {
         <div className="image-large"></div>
         {/* Two smaller images on the right */}
         <div className="image-column">
-          <div className="image-small"></div>
-          <div className="image-small"></div>
+          <div className="image-small image-small-top"></div>
+          <div className="image-small image-small-bottom"></div>
         </div>
       </div>
       <div className="delivery-content">

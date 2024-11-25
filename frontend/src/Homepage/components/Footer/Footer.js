@@ -7,7 +7,10 @@ const Footer = () => {
       <div className="footer-content">
         {/* Left Section */}
         <div className="footer-left">
-          <h2 className="footer-logo">ベトナムごはん</h2>
+          <div className="footer-logo">
+            <div className="footer-logo-image"></div>
+            <h2 className="footer-title">ベトナムごはん</h2>
+          </div>
           <p className="footer-description">
             新しい技術の時代に、私たちのアプリでベトナム料理の魅力を紹介します。
           </p>
@@ -44,10 +47,10 @@ const Footer = () => {
         <div className="footer-right">
           <h3 className="footer-section-title">私たちをInstagramでフォローしてください</h3>
           <div className="footer-images">
-            <div className="footer-image-placeholder"></div>
-            <div className="footer-image-placeholder"></div>
-            <div className="footer-image-placeholder"></div>
-            <div className="footer-image-placeholder"></div>
+            <div className="footer-image-placeholder footer-image-topleft"></div>
+            <div className="footer-image-placeholder footer-image-topright"></div>
+            <div className="footer-image-placeholder footer-image-bottomleft"></div>
+            <div className="footer-image-placeholder footer-image-bottomright"></div>
           </div>
         </div>
       </div>
