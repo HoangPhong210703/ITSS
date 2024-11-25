@@ -28,6 +28,20 @@
     align-items: center;
     padding: 20px;
   }
+
+  .header-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .header-logo-image {
+    width: 50px; /* Adjust as needed */
+    height: 50px; /* Adjust as needed */
+    background-image: url('../../../assets/images/homepage/logo-white.png');
+    background-size: cover;
+    background-position: center;
+  }
   
   .logo h1 {
     font-size: 24px;

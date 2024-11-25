@@ -2,8 +2,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 40px;
+    padding: 60px 10%;
     background-color: #f8f8f8;
+    min-height: 700px;
   }
   
   .delivery-images {
@@ -14,9 +15,11 @@
   
   .image-large {
     flex: 2;
-    background-color: #d9f7be; /* Light green for mock image */
     height: 400px;
     border-radius: 10px;
+    background-image: url('../../../assets/images/homepage/delivery1.jpeg');
+    background-position: center;
+    background-size: cover;
   }
   
   .image-column {
@@ -31,6 +34,18 @@
     background-color: #d9f7be; /* Light green for mock image */
     height: 50%;
     border-radius: 10px;
+  }
+
+  .image-small-top {
+    background-image: url('../../../assets/images/homepage/delivery2.jpeg');
+    background-position: center;
+    background-size: cover;
+  }
+
+  .image-small-bottom {
+    background-image: url('../../../assets/images/homepage/delivery3.jpeg');
+    background-position: center;
+    background-size: cover;
   }
   
   .delivery-content {

@@ -4,9 +4,12 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 40px;
+    padding: 60px;
     background-color: #fdfdfd;
-    min-height: 400px; /* Set a minimum height for proper centering */
+    min-height: 600px; /* Set a minimum height for proper centering */
+    background-image: url('../../../assets/images/homepage/hero-banner.png');
+    background-size: cover;
+    background-position: center;
   }
   
   .hero-content {
@@ -41,7 +44,7 @@
   }
   
   .filter-button {
-    background-color: #e57373;
+    background-color: #c51d1d;
     color: white;
     border-radius: 20px;
   }

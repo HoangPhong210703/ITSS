@@ -18,7 +18,8 @@ const Header = () => {
         </div>
       </div>
       <div className="header-bottom">
-        <div className="logo">
+        <div className="header-logo">
+          <div className="header-logo-image"></div>
           <h1>ベトナムごはん</h1>
         </div>
         <nav className="nav-links">
