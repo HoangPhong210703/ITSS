@@ -1,0 +1,51 @@
+.header {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+  }
+  
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    font-size: 14px;
+  }
+  
+  .header-contact-info span {
+    margin-right: 15px;
+  }
+  
+  .social-icons a {
+    color: white;
+    margin-left: 10px;
+    text-decoration: none;
+  }
+  
+  .header-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .logo h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .nav-links a {
+    margin-right: 20px;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .sign-out-button {
+    padding: 10px 15px;
+    background-color: #fff;
+    border: 1px solid #333;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
